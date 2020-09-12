@@ -1,5 +1,4 @@
 # WebDemo
 
 This repository is belong to minology.
-Under the collaboration of: 
-Duong Quoc Hung
+Under the collaboration of: \n
